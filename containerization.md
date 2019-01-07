@@ -18,6 +18,10 @@ Official docs [https://docs.docker.com/](https://docs.docker.com/)
 Great introduction to docker - networks, volumes, compose. There is also a section on docker swarm.  
 [https://www.udemy.com/docker-mastery/learn/v4/](https://www.udemy.com/docker-mastery/learn/v4/)
 
+### JVM with docker
+
+Excellent talk by Christopher Batey [https://www.youtube.com/watch?v=6ePUiQuaUos](https://www.youtube.com/watch?v=6ePUiQuaUos)
+
 ## Kubernetes
 
 > Kubernetes is an open-source system for automating deployment, scaling and management of containerized applications.
