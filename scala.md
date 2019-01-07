@@ -23,7 +23,9 @@ Great introduction to functional paradigm combined with introduction to scala
 
 > Akka is a toolkit for building highly concurrent, distributed, and resilient message-driven applications for Java and Scala
 
- **Akka Present and Future,** Christopher Batey ****[https://www.youtube.com/watch?v=ncQTM-F\_VmA](https://www.youtube.com/watch?v=ncQTM-F_VmA)
+**Official docs** - [https://akka.io/docs/](https://akka.io/docs/)
+
+**Akka Present and Future,** Christopher Batey ****[https://www.youtube.com/watch?v=ncQTM-F\_VmA](https://www.youtube.com/watch?v=ncQTM-F_VmA)
 
 **Building responsive, scalable systems with asynchrony and flow control,** Christopher Batey [https://www.youtube.com/watch?v=FttlADiAqz](https://www.youtube.com/watch?v=FttlADiAqz)
 
