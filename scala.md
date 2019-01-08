@@ -29,3 +29,5 @@ Great introduction to functional paradigm combined with introduction to scala
 
 **Building responsive, scalable systems with asynchrony and flow control,** Christopher Batey [https://www.youtube.com/watch?v=FttlADiAqz](https://www.youtube.com/watch?v=FttlADiAqz)
 
+**Building scalable, back pressured services with Akka,** Christopher Batey [https://www.youtube.com/watch?v=XO8MgWH-3Oo](https://www.youtube.com/watch?v=XO8MgWH-3Oo)
+

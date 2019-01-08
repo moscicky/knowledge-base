@@ -8,6 +8,10 @@ Part 1: [https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101](htt
 
 Part 2: [https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
 
+## Videos
+
+**Lambda Architecture with Spark Streaming, Kafka, Cassandra, Akka and Scala**, Helena Edelson ****- [https://www.youtube.com/watch?v=3yNC3nMJ5dY](https://www.youtube.com/watch?v=3yNC3nMJ5dY)
+
 ## Technologies
 
 
