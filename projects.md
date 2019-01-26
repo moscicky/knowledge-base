@@ -25,5 +25,9 @@ Project for Software Engineering course. The goal was to create simple RESTful a
 
 Repo link: [https://github.com/moscicky/dbms-clinic](https://github.com/moscicky/dbms-clinic)
 
+## Computer Networks Chat App
 
+Project for Computer Networks Programming course. The goal was to create chat app using BSD sockets with C/C++. We've also created a frontend client with Electron & React. You can find extensive info in project's readme.
+
+Repo link: [https://github.com/moscicky/computer-networks-gg](https://github.com/moscicky/computer-networks-gg) 
 

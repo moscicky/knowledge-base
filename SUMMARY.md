@@ -8,4 +8,5 @@
 * [Containerization](containerization.md)
 * [Projects](projects.md)
 * [Scala](scala.md)
+* [Kafka](kafka.md)
 
