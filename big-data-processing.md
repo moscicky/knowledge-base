@@ -18,5 +18,9 @@ Part 2: [https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102](htt
 
 ## Technologies
 
+{% page-ref page="apache-spark.md" %}
 
+{% page-ref page="apache-beam.md" %}
+
+{% page-ref page="apache-flink.md" %}
 
