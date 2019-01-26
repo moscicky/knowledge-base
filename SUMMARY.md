@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [Knowledge base](README.md)
 * [Big data processing](big-data-processing.md)
 * [Apache Beam](apache-beam.md)
 * [Apache Flink](apache-flink.md)
