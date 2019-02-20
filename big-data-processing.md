@@ -8,6 +8,8 @@ Part 1: [https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101](htt
 
 Part 2: [https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
 
+Dataflow white-paper: [http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)
+
 ## Books 
 
 **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable System**, Martin Kleppmann - [https://dataintensive.net/](https://dataintensive.net/) a m a z i n g overview of current state of systems working with massive data. 
