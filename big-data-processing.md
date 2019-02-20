@@ -10,6 +10,12 @@ Part 2: [https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102](htt
 
 Dataflow white-paper: [http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)
 
+Spotify big data overview & scio:
+
+Part 1: [https://labs.spotify.com/2017/10/16/big-data-processing-at-spotify-the-road-to-scio-part-1/](https://labs.spotify.com/2017/10/16/big-data-processing-at-spotify-the-road-to-scio-part-1/)
+
+Part 2: [https://labs.spotify.com/2017/10/23/big-data-processing-at-spotify-the-road-to-scio-part-2/](https://labs.spotify.com/2017/10/23/big-data-processing-at-spotify-the-road-to-scio-part-2/)
+
 ## Books 
 
 **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable System**, Martin Kleppmann - [https://dataintensive.net/](https://dataintensive.net/) a m a z i n g overview of current state of systems working with massive data. 
