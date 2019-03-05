@@ -10,4 +10,6 @@
 * [Projects](projects.md)
 * [Scala](scala.md)
 * [Kafka](kafka.md)
+* [Kotlin](kotlin.md)
+* [Java](java.md)
 
