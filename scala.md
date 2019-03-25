@@ -31,3 +31,5 @@ Great introduction to functional paradigm combined with introduction to scala
 
 **Building scalable, back pressured services with Akka,** Christopher Batey [https://www.youtube.com/watch?v=XO8MgWH-3Oo](https://www.youtube.com/watch?v=XO8MgWH-3Oo)
 
+**Akka in action** [**https://www.manning.com/books/akka-in-action**](https://www.manning.com/books/akka-in-action)\*\*\*\*
+

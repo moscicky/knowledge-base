@@ -13,4 +13,5 @@
 * [Kotlin](kotlin.md)
 * [Java](java.md)
 * [Event sourcing](event-sourcing.md)
+* [2019 checklist](2019-checklist.md)
 
