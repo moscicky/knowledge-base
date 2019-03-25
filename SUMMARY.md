@@ -14,4 +14,5 @@
 * [Java](java.md)
 * [Event sourcing](event-sourcing.md)
 * [2019 checklist](2019-checklist.md)
+* [Book notes](book-notes.md)
 
