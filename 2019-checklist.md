@@ -18,4 +18,7 @@ description: List of books to read and things to learn in 2019
 * [ ] Write tests before implementation 
 * [ ] Master Cassandra
 * [ ] Master Java
+* [ ] Distributed systems, consensus algorithms, etc
+* [ ] Microservice architecture 
+* [ ] GO? 
 
