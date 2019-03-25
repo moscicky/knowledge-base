@@ -12,3 +12,5 @@ Practice pair programming. It will help you write cleaner code, improve your des
 
 Manage your time efficiently. Ditch long hours on youtube and social media. Always have something to read with you, read it when commuting, before sleep _75-78_
 
+Follow Extreme Programming \(XP\) principles. TDD helps you design application structure better. Continuous integration means saving time in the future.  Pair programming gives you faster feedback than PR review. Refactoring = easier maintenance for others. _110-120_
+

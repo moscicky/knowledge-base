@@ -4,7 +4,7 @@ description: List of books to read and things to learn in 2019
 
 # 2019 checklist
 
-* [ ] Software Craftsmanship, Sandro Mancuso [https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
+* [x] Software Craftsmanship, Sandro Mancuso [https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
 * [ ] Domain Driven Design, Eric Evans [https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 * [ ] Design Patterns, GOF [https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) 
 * [ ] SCIP [https://web.mit.edu/alexmv/6.037/sicp.pdf](https://web.mit.edu/alexmv/6.037/sicp.pdf)
