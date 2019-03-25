@@ -4,7 +4,9 @@
 
 **Programming in Scala**, Martin Odersky  
 Standard language reference  
-[https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687](https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687)  
+[https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687](https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687)
+
+**Functional Programming in Scala** [https://www.manning.com/books/functional-programming-in-scala](https://www.manning.com/books/functional-programming-in-scala)  
 
 
 ## Courses
