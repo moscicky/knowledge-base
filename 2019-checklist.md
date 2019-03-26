@@ -14,8 +14,8 @@ description: List of books to read and things to learn in 2019
 * [ ] Scala [https://www.amazon.co.uk/Programming-Scala-3rd-Martin-Odersky/dp/0981531687](https://www.amazon.co.uk/Programming-Scala-3rd-Martin-Odersky/dp/0981531687)
 * [ ] Functional Kotlin [https://www.packtpub.com/application-development/functional-kotlin](https://www.packtpub.com/application-development/functional-kotlin)
 * [ ] Arrow.io [https://arrow-kt.io/](https://arrow-kt.io/)
-* [ ] Functional Programming - haskell/haskellbook?
-* [ ] Kubernetes deep dive
+* [ ] Kafka [https://www.confluent.io/stream-processing/](https://www.confluent.io/stream-processing/) [https://www.confluent.io/designing-event-driven-systems](https://www.confluent.io/designing-event-driven-systems) [https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
+* [ ] Kubernetes deep dive [https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)
 * [ ] Write tests before implementation 
 * [ ] Master Cassandra
 * [ ] Master Java
