@@ -15,4 +15,6 @@
 * [Event sourcing](event-sourcing.md)
 * [2019 checklist](2019-checklist.md)
 * [Book notes](book-notes.md)
+* [Software Craftsman \(2015 PL\)](software-craftsman-2015-pl.md)
+* [Effective Java \(3rd edition\)](effective-java-3rd-edition.md)
 
