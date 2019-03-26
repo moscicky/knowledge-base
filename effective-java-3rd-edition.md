@@ -35,7 +35,7 @@ Both approaches however can be defeated with serialization. Each time the `INSTA
 
 ```text
 //inside Singleton class
-readResolve(){ 
+readResolve() { 
     return INSTANCE
 }
 ```
@@ -50,4 +50,21 @@ public Enum Singleton {
     //methods
 }
 ```
+
+### Enforce noninstantiability via private constructors
+
+We often found ourselves creating util classes composed of only static methods. It's a good practice to make constructor of such classes private. 
+
+```text
+public class DateUtils {
+    private DateUtils() {}
+    public static Date get Date() {...}
+}
+```
+
+### Prefer dependency injection to hardwiring resources
+
+> Static utility classes and singletons are inappropriate for classes whose behaviour is parameterized by an underlying resource.
+
+If your class relies on behaviour of it's resources pass them in constructor, use factory or builder. Dependency injection gives you better flexibility and testability. 
 
