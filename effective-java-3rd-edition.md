@@ -1,3 +1,10 @@
+---
+description: >-
+  Quotes and notes come from Effective Java by Joshua Bloch.
+  https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997 there are
+  however my opinions once in a while
+---
+
 # Effective Java \(3rd edition\)
 
 ## Chapter 2. Creating and destroying objects
@@ -95,6 +102,12 @@ To implement `equals` properly:
 * If some fields are required to contain `null` values compare such objects with `Objects.equals(Object, Object)` to avoid `NullPointerException`
 
 Write unit tests for your equals implementation! **Always** override `hashcode` when overriding `equals`. Do not use type other than `Object` as `equals` argument.
+
+### Override clone judiciously
+
+Ironically `Clonable` interface doesn't provide `clone()` method. It is assumed that classes implementing `Clonable` provide proper `public clone()` method which eventually calls `Object#clone` via `super.clone` somewhere up the chain. Remember about deep copies of mutable objects. **Overall: don't use it**.
+
+Rather than implementing infamous `Cloneable` use **copy** **constructor** or **copy factory.** One exception to this rules are arrays. They are best copied with `clone` .
 
 
 
