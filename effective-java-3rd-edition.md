@@ -68,3 +68,33 @@ public class DateUtils {
 
 If your class relies on behaviour of it's resources pass them in constructor, use factory or builder. Dependency injection gives you better flexibility and testability. 
 
+### Avoid creating unnecessary objects
+
+When possible use static factory methods instead of constructors for instating objects. Repeatedly creating the same object could seriously harm the performance. One example could be using `String.matches(regex)` , under the hood it creates `Pattern` class instance at every evaluation. It's better to create `Pattern` instance via `Patter.compile(regex)` and cache in static field. The using it like `Pattern.matcher(string).matches()` will significantly improve the performance. Sidenote: lazy initializing `Pattern` instance is not recommended due to greater complexity. 
+
+Beware of autoboxing! Assigning primitive types to boxed primitives repeatedly can increase the runtime significantly.
+
+### Eliminate obsolete object references
+
+> Whenever a class manages its own memory, the programmer  should be alert for memory leaks.
+
+In such cases GC doesn't know which objects are no longer needed. To prevent memory leaks we can null out object references.
+
+## Chapter 3. Methods Common to All Objects
+
+### Obey the general contract when overriding equals
+
+Do not override `equals` when it is not needed. \(Than object will be only equal to itself\). When each instance is inherently unique, there is no logical equality test or a super class has already overridden it appropriately.
+
+To implement `equals` properly:
+
+* Compare argument to this object with `==` . Return `true` if that's the case
+* Check whether the argument has the correct type with `instanceof` . Return `false` otherwise. If you want to allow comparison between classes that implement the same interface, use interface here.
+* Cast the argument to correct type. Safety guaranteed by `instanceof`
+* Check equality for each significant class element. Use `==` for primitive types, `equals` for nested objects and `Double.compare()`  and `Float.compare()` for Doubles and Floats respectively. 
+* If some fields are required to contain `null` values compare such objects with `Objects.equals(Object, Object)` to avoid `NullPointerException`
+
+Write unit tests for your equals implementation! **Always** override `hashcode` when overriding `equals`. Do not use type other than `Object` as `equals` argument.
+
+
+
