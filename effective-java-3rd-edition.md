@@ -111,5 +111,21 @@ Rather than implementing infamous `Cloneable` use **copy** **constructor** or **
 
 ## Chapter 4. Classes and Interfaces
 
+## Chapter 4. Classes and Interfaces
+
+### Minimize mutability
+
+Following functional programming paradigm has many benefits. Not mutating the state provides thread safety and helps to reason about the program execution. Newer JVM languages such as Scala or Kotlin are making it a default. Few tips:
+
+* If your class has methods that refer to mutable object don't return their reference to client. Instead, create new instances. 
+* Reuse existing instanced. For instances that are commonly used, try to cache them in `static final` fields. Examples: `BigDecimal.ONE` , `BigDecimal.ZERO` 
+* Make classes final \(to avoid state mutation by subclasses - default in Kotlin\) or event better, make all constructors private and provide static factory methods.
+* Provide setters only when they are needed. Classes should be mutable only if there is good reason for them to be.
+* Make every field `private final` if possible.
+
+### 
+
+
+
 
 
