@@ -18,3 +18,5 @@
 
 **Garbage Collector w pigułce** , Jakub Kubryński [https://www.youtube.com/watch?v=LCr3XyHdaZk](https://www.youtube.com/watch?v=LCr3XyHdaZk)
 
+**Bulletproof Java Enterprise Applications for The Hard Production Life**, Sebastian Daschner - [https://www.youtube.com/watch?v=OsZfhKiePWM](https://www.youtube.com/watch?v=OsZfhKiePWM)
+
