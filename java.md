@@ -8,7 +8,9 @@
 
 **Java advanced topics** - series of blog posts about java advanced topics [https://netjs.blogspot.com/2015/05/java-advanced-topics.html](https://netjs.blogspot.com/2015/05/java-advanced-topics.html)
 
-## Personal opinion
+## Videos 
 
-I've always enjoyed Java and thought of it as high level C++. Some people say that Java is not modern enough for todays development. However I feel like _recent_ changes to the language in &gt; Java 8 and movement towards more functional approach made things a whole lot better and I don't think we will say _goodbye_ to java any time soon.
+**JVM Internals** , Jakub Kubryński [https://youtu.be/rWdgla54bcc](https://youtu.be/rWdgla54bcc) awesome overview of JVM memory, threading model & GC
+
+**Garbage Collector w pigułce** , Jakub Kubryński [https://www.youtube.com/watch?v=LCr3XyHdaZk](https://www.youtube.com/watch?v=LCr3XyHdaZk)
 
