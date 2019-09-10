@@ -13,6 +13,7 @@
 * [Kotlin](kotlin.md)
 * [Java](java.md)
 * [Event sourcing](event-sourcing.md)
+* [Operating Systems](operating-systems.md)
 * [2019 checklist](2019-checklist.md)
 * [Book notes](book-notes.md)
 * [Software Craftsman \(2015 PL\)](software-craftsman-2015-pl.md)
