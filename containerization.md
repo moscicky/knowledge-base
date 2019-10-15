@@ -30,6 +30,10 @@ Excellent talk by Christopher Batey [https://www.youtube.com/watch?v=6ePUiQuaUos
 
 Official docs [https://kubernetes.io/docs/home/?path=users&persona=app-developer&level=foundational](https://kubernetes.io/docs/home/?path=users&persona=app-developer&level=foundational)
 
+### Books
+
+[https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)
+
 ####  <a id="kubernetes-docs-concepts-overview-what-is-kubernetes-is-an-open-source-system-for-automating-deployment-scaling-and-management-of-containerized-applications"></a>
 
 

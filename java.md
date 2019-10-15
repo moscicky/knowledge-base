@@ -6,6 +6,8 @@
 
 **JVM specification** [**https://docs.oracle.com/javase/specs/jvms/se12/jvms12.pdf**](https://docs.oracle.com/javase/specs/jvms/se12/jvms12.pdf)\*\*\*\*[**https://docs.oracle.com/javase/specs/jvms/se12/html/index.html**](https://docs.oracle.com/javase/specs/jvms/se12/html/index.html)\*\*\*\*
 
+**Java concurrency in practice** [**https://jcip.net/**](https://jcip.net/)\*\*\*\*
+
 ## Articles
 
 **Java advanced topics** - series of blog posts about java advanced topics [https://netjs.blogspot.com/2015/05/java-advanced-topics.html](https://netjs.blogspot.com/2015/05/java-advanced-topics.html)
