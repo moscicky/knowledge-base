@@ -18,4 +18,5 @@
 * [Web](web.md)
 * [Microservices](microservices.md)
 * [2019 checklist](2019-checklist.md)
+* [CS history](cs-history.md)
 
