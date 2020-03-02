@@ -12,3 +12,9 @@ Avoiding Double Payments in a Distributed Payments _System_ [https://medium.com/
 
 **Life Beyond Distributed Transactions,** Pat Helland [http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf](http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf)
 
+## Podcasts
+
+**Pat Helland on Data Management with Microservices**  [https://www.se-radio.net/2020/02/episode-397-pat-helland-on-data-management-with-microservices/](https://www.se-radio.net/2020/02/episode-397-pat-helland-on-data-management-with-microservices/)
+
+**Jay Kreps on Enterprise Integration Architecture with a Kafka Event Log** [https://www.se-radio.net/2019/12/episode-393-jay-kreps-on-enterprise-integration-architecture-with-a-kafka-event-log/](https://www.se-radio.net/2019/12/episode-393-jay-kreps-on-enterprise-integration-architecture-with-a-kafka-event-log/)
+

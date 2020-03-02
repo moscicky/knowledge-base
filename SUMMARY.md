@@ -7,6 +7,7 @@
 * [Apache Flink](apache-flink.md)
 * [Cloud/DevOps](cloud-devops.md)
 * [Database Systems](database-systems.md)
+* [MongoDB](mongodb.md)
 * [Kubernetes](containerization.md)
 * [Docker](docker.md)
 * [Scala](scala.md)
@@ -17,6 +18,7 @@
 * [Operating Systems](operating-systems.md)
 * [Web](web.md)
 * [Microservices](microservices.md)
+* [Security](security.md)
 * [2019 checklist](2019-checklist.md)
 * [CS history](cs-history.md)
 
