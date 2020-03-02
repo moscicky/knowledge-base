@@ -12,6 +12,10 @@ Avoiding Double Payments in a Distributed Payments _System_ [https://medium.com/
 
 **Life Beyond Distributed Transactions,** Pat Helland [http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf](http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf)
 
+## Books
+
+**Designing Event-Driven Systems** [**https://www.confluent.io/designing-event-driven-systems/**](https://www.confluent.io/designing-event-driven-systems/)\*\*\*\*
+
 ## Podcasts
 
 **Pat Helland on Data Management with Microservices**  [https://www.se-radio.net/2020/02/episode-397-pat-helland-on-data-management-with-microservices/](https://www.se-radio.net/2020/02/episode-397-pat-helland-on-data-management-with-microservices/)
