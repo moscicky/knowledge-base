@@ -16,6 +16,7 @@
 * [Java](java.md)
 * [Event sourcing](event-sourcing.md)
 * [Operating Systems](operating-systems.md)
+* [Rust](rust.md)
 * [Web](web.md)
 * [TDD](tdd.md)
 * [DDD](ddd.md)

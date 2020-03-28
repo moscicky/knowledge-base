@@ -2,7 +2,15 @@
 
 ## Books
 
-**Operating systems concepts** - [https://www.os-book.com/](https://www.os-book.com/) best ok introduction 
+**Operating systems concepts** - [https://www.os-book.com/](https://www.os-book.com/) best OS introduction 
+
+### Tutorials
+
+**Writing OS in Rust** - [https://github.com/phil-opp/blog\_os](https://github.com/phil-opp/blog_os)
+
+**OS tutorial** - [https://github.com/cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) \(C and Assembly\)
+
+
 
 ## Articles
 
