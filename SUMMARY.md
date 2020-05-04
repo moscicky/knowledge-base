@@ -23,8 +23,8 @@
 * [Architecture](architecture.md)
 * [Microservices](microservices.md)
 * [Distributed systems](distributed-systems.md)
-* [Security](security.md)
+* [Security](security/README.md)
+  * [Serverless](security/serverless.md)
 * [2019 checklist](2019-checklist.md)
 * [CS history](cs-history.md)
-* [Serverless](serverless.md)
 
