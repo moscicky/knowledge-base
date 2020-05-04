@@ -26,4 +26,5 @@
 * [Security](security.md)
 * [2019 checklist](2019-checklist.md)
 * [CS history](cs-history.md)
+* [Serverless](serverless.md)
 
