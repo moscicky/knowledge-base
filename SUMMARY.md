@@ -27,4 +27,5 @@
 * [Serverless](serverless.md)
 * [2019 checklist](2019-checklist.md)
 * [CS history](cs-history.md)
+* [AWS](aws.md)
 

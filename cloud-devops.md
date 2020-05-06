@@ -12,9 +12,3 @@
 
 **Docker in Production: Tales From the Engine Room**, Bryan Cantrill [https://youtu.be/0T2XFSALOaU](https://youtu.be/0T2XFSALOaU) \(can't get enough of bryan cantrill\)
 
-**Lyft's Envoy: From Monolith to Service Mesh - Matt Klein, Lyft** [https://www.youtube.com/watch?v=RVZX4CwKhGE](https://www.youtube.com/watch?v=RVZX4CwKhGE) - introduction to envoy
-
-## Podcasts
-
-
-
