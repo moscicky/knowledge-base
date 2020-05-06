@@ -14,7 +14,7 @@
 
 **JVM internals** - [http://blog.jamesdbloom.com/JVMInternals.html](http://blog.jamesdbloom.com/JVMInternals.html)
 
-## Videos 
+## Videos
 
 **JVM Internals** , Jakub Kubryński [https://youtu.be/rWdgla54bcc](https://youtu.be/rWdgla54bcc) awesome overview of JVM memory, threading model & GC
 

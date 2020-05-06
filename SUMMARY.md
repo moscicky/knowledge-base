@@ -25,7 +25,6 @@
 * [Distributed systems](distributed-systems.md)
 * [Security](security.md)
 * [Serverless](serverless.md)
-* [2019 checklist](2019-checklist.md)
-* [CS history](cs-history.md)
 * [AWS](aws.md)
+* [CS history](cs-history.md)
 
