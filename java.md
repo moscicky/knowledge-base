@@ -8,6 +8,8 @@
 
 **Java concurrency in practice** [**https://jcip.net/**](https://jcip.net/)\*\*\*\*
 
+**Java Performance, 2nd Edition** [http://shop.oreilly.com/product/0636920272250.do](http://shop.oreilly.com/product/0636920272250.do)
+
 ## Articles
 
 **Java advanced topics** - series of blog posts about java advanced topics [https://netjs.blogspot.com/2015/05/java-advanced-topics.html](https://netjs.blogspot.com/2015/05/java-advanced-topics.html)
