@@ -27,4 +27,7 @@
 * [Serverless](serverless.md)
 * [AWS](aws.md)
 * [CS history](cs-history.md)
+* [Search](search.md)
+* [Machine Learning](machine-learning.md)
+* [ML feature represenatation](ml-feature-represenatation.md)
 
