@@ -20,7 +20,6 @@
 * [Kubernetes](containerization.md)
 * [Machine Learning](machine-learning.md)
 * [Microservices](microservices.md)
-* [ML feature represenatation](ml-feature-represenatation.md)
 * [MongoDB](mongodb.md)
 * [Operating Systems](operating-systems.md)
 * [Scala](scala.md)

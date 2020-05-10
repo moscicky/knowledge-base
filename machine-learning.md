@@ -4,6 +4,8 @@
 
 Michelangelo, Uber's ML platform - [https://m.youtube.com/watch?v=iCpp5mqTeXE](https://m.youtube.com/watch?v=iCpp5mqTeXE)
 
+Word embeddings - [https://www.youtube.com/watch?v=gQddtTdmG\_8](https://www.youtube.com/watch?v=gQddtTdmG_8)
+
 ## Articles
 
 Michelangelo, Uber's ML platform - [https://eng.uber.com/michelangelo-machine-learning-platform/](https://eng.uber.com/michelangelo-machine-learning-platform/)
