@@ -16,3 +16,5 @@ Evolving Michelangelo Model Representation for Flexibility at Scale - [https://e
 
 Interpretable ML book - [https://github.com/christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)
 
+**Deep learning book,** Ian Goodfellow - [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
+
