@@ -6,3 +6,4 @@
 
 **Sławomir Sobótka - C4 - lekkie podejście do dokumentowania architektury** [https://www.youtube.com/watch?v=FoMEgnMKhK0](https://www.youtube.com/watch?v=FoMEgnMKhK0)
 
+Data Mesh - https://m.youtube.com/watch?v=52MCFe4v0UU
