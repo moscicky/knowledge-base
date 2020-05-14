@@ -4,6 +4,8 @@
 
 **Token vs Cookies** [**https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide**](https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide)\*\*\*\*
 
+**OAuth2 simplified -** [https://aaronparecki.com/oauth-2-simplified/](https://aaronparecki.com/oauth-2-simplified/)
+
 ### **Podcasts**
 
 **Evan Gilman and Doug Barth on Zero-Trust Networks** [**https://www.se-radio.net/2019/10/episode-385-evan-gilman-and-doug-barth-on-zero-trust-networks/**](https://www.se-radio.net/2019/10/episode-385-evan-gilman-and-doug-barth-on-zero-trust-networks/)\*\*\*\*
