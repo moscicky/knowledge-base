@@ -8,3 +8,5 @@ Deep learning in Airbnb search - [https://dl.acm.org/doi/pdf/10.1145/3292500.333
 
 Deep learning in Airbnb search II - [https://arxiv.org/pdf/2002.05515v1.pdf](https://arxiv.org/pdf/2002.05515v1.pdf)
 
+Diversity in ranking [https://arxiv.org/pdf/2004.02621.pdf](https://arxiv.org/pdf/2004.02621.pdf)
+
