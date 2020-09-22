@@ -12,8 +12,6 @@ Northbridge \(historycznie\) - mostek pełniący rolę kontrolera pamięci, słu
 
 Southbridge \(historycznie\) - mostek odpowiedzialny za komunikację z urządzeniami zewnętrznymi
 
-Problemem jest jednak walka o przepustowość Northbridge pomiędzy zewnętrznymi urządzeniami a CPU.
-
 FSB \(historycznie\) - Front Side Bus, szyna służąca przesyłaniu danych pomiędzy CPU a Northbridge. U intela wyparty przez QPI.
 
 NUMA - Not Uniform Memory Access, architektura w której występuje wiele CPU \(multi-socket\), każdy z pamięcią RAM. Koszt dostępu do pamięci jest różny.
