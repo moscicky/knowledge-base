@@ -37,3 +37,5 @@ Interpretable ML book - [https://github.com/christophM/interpretable-ml-book](ht
 
 **Deep learning book,** Ian Goodfellow - [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
 
+Mathematics for ML - [https://mml-book.github.io/](https://mml-book.github.io/)
+
