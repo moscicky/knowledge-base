@@ -29,4 +29,5 @@
 * [Search](search.md)
 * [Security](security.md)
 * [Serverless](serverless.md)
+* [CPU & Memory](cpu-and-memory.md)
 
