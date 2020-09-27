@@ -29,11 +29,15 @@ website - [https://www.logicalclocks.com/hopsworks-featurestore](https://uploads
 **Airbnb's feature store**  
 [https://www.datacouncil.ai/hubfs/DataEngConf/Data%20Council/Slides%20SF%2019/Bighead%20-%20Airbnb's%20end-to-end%20Machine%20Learning%20Platform.pdf](https://www.datacouncil.ai/hubfs/DataEngConf/Data%20Council/Slides%20SF%2019/Bighead%20-%20Airbnb's%20end-to-end%20Machine%20Learning%20Platform.pdf)
 
-[http://featurestore.org/](http://featurestore.org/)
+{% embed url="http://featurestore.org/" %}
+
+**Locality Sensitive Hashing** - [https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134](https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134)
 
 ## Books
 
 Interpretable ML book - [https://github.com/christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)
 
 **Deep learning book,** Ian Goodfellow - [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
+
+Mathematics for ML - [https://mml-book.github.io/](https://mml-book.github.io/)
 
