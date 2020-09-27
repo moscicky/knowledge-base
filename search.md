@@ -10,3 +10,11 @@ Deep learning in Airbnb search II - [https://arxiv.org/pdf/2002.05515v1.pdf](htt
 
 Diversity in ranking [https://arxiv.org/pdf/2004.02621.pdf](https://arxiv.org/pdf/2004.02621.pdf)
 
+Embeddings for search: [https://www.youtube.com/watch?v=JGHVJXP9NHw&ab\_channel=BerkeleySchoolofInformation](https://www.youtube.com/watch?v=JGHVJXP9NHw&ab_channel=BerkeleySchoolofInformation)
+
+
+
+## Solutions
+
+Milvus - vector similarity engine, [https://www.milvus.io/](https://www.milvus.io/)
+
