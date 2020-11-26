@@ -30,4 +30,5 @@
 * [Security](security.md)
 * [Serverless](serverless.md)
 * [CPU & Memory](cpu-and-memory.md)
+* [Technical leadership & management](technical-leadership-and-management.md)
 
