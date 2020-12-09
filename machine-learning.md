@@ -33,6 +33,10 @@ website - [https://www.logicalclocks.com/hopsworks-featurestore](https://uploads
 
 **Locality Sensitive Hashing** - [https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134](https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134)
 
+**Using Evolutionary AutoML to Discover Neural Network Architectures** [https://ai.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html](https://ai.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html)
+
+**Welcoming the Era of Deep Neuroevolution** [https://eng.uber.com/deep-neuroevolution/](https://eng.uber.com/deep-neuroevolution/)
+
 ## Books
 
 Interpretable ML book - [https://github.com/christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)
