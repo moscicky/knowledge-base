@@ -45,3 +45,11 @@ Interpretable ML book - [https://github.com/christophM/interpretable-ml-book](ht
 
 Mathematics for ML - [https://mml-book.github.io/](https://mml-book.github.io/)
 
+Deep learning for coders: [https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
+
+
+
+### **Courses**
+
+fast-ai -  [https://course19.fast.ai/part2](https://course19.fast.ai/part2), [https://course.fast.ai/](https://course.fast.ai/)
+
