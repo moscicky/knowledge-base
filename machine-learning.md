@@ -47,6 +47,8 @@ Mathematics for ML - [https://mml-book.github.io/](https://mml-book.github.io/)
 
 Deep learning for coders: [https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 
+Hands on ML 2: [https://github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2)
+
 
 
 ### **Courses**
