@@ -49,7 +49,11 @@ Deep learning for coders: [https://www.amazon.com/Deep-Learning-Coders-fastai-Py
 
 Hands on ML 2: [https://github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2)
 
+### Websites
 
+Papers with code - [https://paperswithcode.com/](https://paperswithcode.com/)
+
+Tensorflow garden - [https://github.com/tensorflow/models/](https://github.com/tensorflow/models/)
 
 ### **Courses**
 
