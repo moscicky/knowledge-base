@@ -14,5 +14,7 @@ description: Lightning-fast unified analytics engine
 
 **Spark, the definitive guide -** [**https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219**](https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219)\*\*\*\*
 
+**Learning Spark, 2nd edition -** [**https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/**](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/)\*\*\*\*
+
 **Hadoop, the definitive guide -** [**https://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520**](https://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520)\*\*\*\*
 

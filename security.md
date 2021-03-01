@@ -6,6 +6,10 @@
 
 **OAuth2 simplified -** [https://aaronparecki.com/oauth-2-simplified/](https://aaronparecki.com/oauth-2-simplified/)
 
+### Books
+
+Web Application Security - [https://www.oreilly.com/library/view/web-application-security/9781492053101/](https://www.oreilly.com/library/view/web-application-security/9781492053101/) - 3/5, mostly front-end
+
 ### **Podcasts**
 
 **Evan Gilman and Doug Barth on Zero-Trust Networks** [**https://www.se-radio.net/2019/10/episode-385-evan-gilman-and-doug-barth-on-zero-trust-networks/**](https://www.se-radio.net/2019/10/episode-385-evan-gilman-and-doug-barth-on-zero-trust-networks/)\*\*\*\*
