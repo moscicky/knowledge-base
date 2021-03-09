@@ -6,3 +6,15 @@
 
 **Functional programming in Kotlin** - [https://www.manning.com/books/functional-programming-in-kotlin](https://www.manning.com/books/functional-programming-in-kotlin)
 
+### Articles
+
+{% embed url="https://blog.allegro.tech/2020/02/webflux-and-coroutines.html" %}
+
+{% embed url="https://kotlinlang.org/docs/async-programming.html" %}
+
+{% embed url="https://elizarov.medium.com/blocking-threads-suspending-coroutines-d33e11bf4761" %}
+
+
+
+
+
