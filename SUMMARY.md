@@ -32,4 +32,5 @@
 * [CPU & Memory](cpu-and-memory.md)
 * [Technical leadership & management](technical-leadership-and-management.md)
 * [Misc](misc.md)
+* [Reactive programming](reactive-programming.md)
 
