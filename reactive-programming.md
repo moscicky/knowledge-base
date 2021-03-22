@@ -1,5 +1,9 @@
 # Reactive programming
 
+### Books
+
+netty in action - [https://www.manning.com/books/netty-in-action](https://www.manning.com/books/netty-in-action)
+
 ### Articles
 
 Reactor docs - [https://projectreactor.io/docs/core/release/reference/](https://projectreactor.io/docs/core/release/reference/)
