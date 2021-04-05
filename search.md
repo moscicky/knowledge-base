@@ -1,5 +1,17 @@
 # Search
 
+## Books
+
+**Enterprise search** - [https://learning.oreilly.com/library/view/enterprise-search-2nd/9781491915523/](https://learning.oreilly.com/library/view/enterprise-search-2nd/9781491915523/)
+
+**Relevant search** - [https://www.manning.com/books/relevant-search](https://www.manning.com/books/relevant-search)
+
+**Solr in action** - [https://www.manning.com/books/solr-in-action](https://www.manning.com/books/solr-in-action)
+
+**Deep learning for search** - [https://www.manning.com/books/deep-learning-for-search](https://www.manning.com/books/deep-learning-for-search)
+
+**AI powered search** - [https://www.manning.com/books/ai-powered-search](https://www.manning.com/books/ai-powered-search)
+
 ## Videos
 
 Airbnb search architecture  - [https://www.slideshare.net/lucidworks/airbnb-searcharchitecture-maximcharkov](https://www.slideshare.net/lucidworks/airbnb-searcharchitecture-maximcharkov)

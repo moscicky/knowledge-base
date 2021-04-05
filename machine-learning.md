@@ -37,6 +37,8 @@ website - [https://www.logicalclocks.com/hopsworks-featurestore](https://uploads
 
 **Welcoming the Era of Deep Neuroevolution** [https://eng.uber.com/deep-neuroevolution/](https://eng.uber.com/deep-neuroevolution/)
 
+**Visualizing ML** - [http://jalammar.github.io/](http://jalammar.github.io/)
+
 ## Books
 
 Interpretable ML book - [https://github.com/christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)
