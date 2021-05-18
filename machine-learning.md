@@ -16,6 +16,8 @@ Airbnb feature store \(zipline\) - [https://www.youtube.com/watch?v=Tg5VEMEsC-0]
 
 Feast feature store - [https://www.youtube.com/watch?v=DaNv-Wf1MBA](https://www.youtube.com/watch?v=DaNv-Wf1MBA)
 
+The Narrated Transformer Language Model [http://nlp.seas.harvard.edu/2018/04/03/attention.html](https://youtu.be/-QH8fRhqFHM)
+
 ## Articles
 
 Michelangelo, Uber's ML platform - [https://eng.uber.com/michelangelo-machine-learning-platform/](https://eng.uber.com/michelangelo-machine-learning-platform/)
