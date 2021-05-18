@@ -37,6 +37,10 @@ website - [https://www.logicalclocks.com/hopsworks-featurestore](https://uploads
 
 **Welcoming the Era of Deep Neuroevolution** [https://eng.uber.com/deep-neuroevolution/](https://eng.uber.com/deep-neuroevolution/)
 
+**Visualized Attention** - [https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+
+**Understanding LSTMs** - [https://colah.github.io/posts/2015-08-Understanding-LSTMs/](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 **Visualizing ML** - [http://jalammar.github.io/](http://jalammar.github.io/)
 
 ## Books
